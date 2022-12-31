@@ -1,0 +1,10 @@
+This is a simple calculator in c# using Windows Forms(.NET framework 4.7.2) 
+I believe you can just download the "Calculator.exe" file(that was manually added, though Windows is always against downloading these kind of files and 
+might tell you that it's a virus)
+FEATURES: 
+* Standard operators
+* mod, negation operator
+* Backspace
+
+By Ali Gaineshev 
+30 December 2022
