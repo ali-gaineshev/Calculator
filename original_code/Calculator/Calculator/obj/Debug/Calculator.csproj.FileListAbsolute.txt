@@ -1,0 +1,11 @@
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ggain\OneDrive\Desktop\csharp_basics\Calculator\Calculator\obj\Debug\Calculator.pdb
